@@ -1,0 +1,13 @@
+{
+  "name": "iotestpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ioTestPad.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ioTestPad.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

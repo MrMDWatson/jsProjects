@@ -1,0 +1,20 @@
+#Stopwatch {
+  background-color: chocolate;
+  text-align: center;
+  border-radius: 30px;
+  box-shadow: 0px 0px 10px black;
+  max-width: 300px;
+  margin: 50px auto;
+}
+
+#Stopwatch > button {
+  background-color: black;
+  border-color: black;
+  color: chocolate;
+  margin: 5px;
+}
+
+.watch-screen {
+  background-color: black;
+  color: green;
+}
